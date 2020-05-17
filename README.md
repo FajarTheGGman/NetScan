@@ -19,3 +19,7 @@
 4.sh install.sh
 5.node netscan.js
 </pre>
+
+
+# Buy Me Some Coffe :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
